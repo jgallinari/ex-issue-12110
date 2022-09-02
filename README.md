@@ -1,4 +1,4 @@
-# ex-issue-12110
+# ex_issue_12110
 Basic sample to illustrate how to reproduce [Elixir issue #12110](https://github.com/elixir-lang/elixir/issues/12110)
 
 ## Steps
