@@ -15,7 +15,7 @@ The steps done to create this sample were:
 ```
 Update mix.exs to include test/support in :elixirc_paths
 * Add file test/ex_issue12110_test.exs
-* Add file test/support/helper.exs
+* Add file test/support/helper.ex
 
 ## How to reproduce the issue
 ```bash
